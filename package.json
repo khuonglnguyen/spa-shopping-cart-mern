@@ -1,0 +1,26 @@
+{
+  "name": "spa-shopping-cart-mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khuongnguyen0412/spa-shopping-cart-mern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khuongnguyen0412/spa-shopping-cart-mern/issues"
+  },
+  "homepage": "https://github.com/khuongnguyen0412/spa-shopping-cart-mern#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.1",
+    "mongoose": "^6.0.5"
+  }
+}
